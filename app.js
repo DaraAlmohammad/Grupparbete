@@ -3,6 +3,7 @@ import { add, sub } from "./calculator.js";
 function main() {
     console.log("Calculator v0.1"); 
     console.log("1) Addition\n0) Exit program");
+    console.log("1) Add\n2) Substract\n0) Exit");
 
     let a = parseFloat(prompt("a: "));
     let b = parseFloat(prompt("b: "));
