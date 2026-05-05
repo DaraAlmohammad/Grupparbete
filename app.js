@@ -11,6 +11,9 @@ function main() {
     if (choice === "1") {
         console.log(add(a, b));
     }
+    if (choice === "2") {
+        console.log(sub(a,b));
+    }
 }
 
 main();
