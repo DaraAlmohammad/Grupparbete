@@ -6,6 +6,6 @@ function main() {
 }
 
 let a = parseFloat(prompt("a: "));
-
+let b = parseFloat(prompt("b: "));
 main();
 
