@@ -15,6 +15,9 @@ function main() {
     if (choice === "2") {
         console.log(sub(a,b));
     }
+    if (choice === "3") {
+        console.log(mul(a, b));
+    }
 }
 
 main();
