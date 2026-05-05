@@ -18,6 +18,9 @@ function main() {
     if (choice === "3") {
         console.log(mul(a, b));
     }
+    if (choice === "4" && b === 0){
+        console.log("Error: division by zero");
+    }
 }
 
 main();
