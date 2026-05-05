@@ -1,4 +1,4 @@
-import { add, sub } from "./calculator.js";
+import { add, sub, mul, div } from "./calculator.js";
 
 function main() {
     console.log("Calculator v0.1"); 
