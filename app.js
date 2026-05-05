@@ -7,7 +7,7 @@ function main() {
 
     let a = parseFloat(prompt("a: "));
     let b = parseFloat(prompt("b: "));
-    let choice = prompt("Your choice: ");
+    let option = prompt("Select: ");
     
     if (choice === "1") {
         console.log(add(a, b));
