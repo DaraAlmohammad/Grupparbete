@@ -1,3 +1,4 @@
+// basic math operations for the calculator
 export function add(a,b) {
     return a + b;
 }
